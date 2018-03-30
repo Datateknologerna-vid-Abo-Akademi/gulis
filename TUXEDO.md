@@ -1,15 +1,16 @@
-# This is an introduction to Tuxedo
+# an introduction to Tuxedo
 Tuxedo is a Linux computer used within Åbo Akademi University which you can log in to via SSH.
 The SSH-protocol encrypts the connection to the communication is secure over the web.
 
 Everyone with a ÅA-username can get access to the tuxedo but everyone does not have it automatically.
 For example, everyone in the IT department gets it automatically when enrolled as a student.
 
-## What you can do with tuxedo: </h4>
+## What you can do with tuxedo
 
 * Use it like an other Linux terminal/computer (see Linux section for more info).
 * write and run python code.
 * store and access your files from anywhere anytime.
+* Use it as an virtual environment.
 
 ## How to connect
 #### Linux/Mac:
