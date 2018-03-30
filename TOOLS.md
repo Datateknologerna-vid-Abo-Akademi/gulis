@@ -71,6 +71,7 @@ Similar editors are [Atom](https://atom.io) and [Sublime Text](https://www.subli
 ## Git
 
 ### What is Git
+
 From [git-scm.com](https://git-scm.com):
 
 ```text
