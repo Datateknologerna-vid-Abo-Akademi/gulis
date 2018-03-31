@@ -17,4 +17,4 @@ This page contains many useful tools and links to get you stated on with your st
 ## Linux
 
 * Intro to Linux
-* Tuxedo
+* [Tuxedo](TUXEDO.md)
