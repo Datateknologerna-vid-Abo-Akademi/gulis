@@ -26,7 +26,10 @@ Telegram is available on most platforms.
 DaTe uses [Slack](https://slack.com) too.
 
 ```text
-Slack is a cloud-based set of proprietary team collaboration tools and services, founded by Stewart Butterfield. The name is an acronym for "Searchable Log of All Conversation and Knowledge".
+Slack is a cloud-based set of proprietary team collaboration
+tools and services, founded by Stewart Butterfield.
+The name is an acronym for "Searchable Log of All
+Conversation and Knowledge".
 ```
 
 Slack is, like Telegram, available on most platforms.
@@ -40,7 +43,11 @@ Slack can also be accessed via your browser.
 ## Discord
 
 ```text
-Discord is a proprietary freeware VoIP application designed for gaming communities. Discord runs on Windows, macOS, Android, iOS, Linux, and in a web browser. As of December 2017, there were about 87 million unique users of the software.
+Discord is a proprietary freeware VoIP application
+designed for gaming communities. Discord runs on
+Windows, macOS, Android, iOS, Linux, and in a web browser.
+As of December 2017, there were about 87 million
+unique users of the software.
 ```
 
 Discord is primarily used for gaming and random chatting.

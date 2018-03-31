@@ -6,7 +6,7 @@ All tools listed here are free and cross platform.
 
 * [JetBrains-stuff](#jetbrains)
 * [Visual Studio Code](#visual-studio-code)
-* Git
+* [Git](#git)
 
 ---
 
@@ -19,7 +19,11 @@ All tools listed here are free and cross platform.
 From [Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment):
 
 ```text
-An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools, and a debugger.
+An integrated development environment (IDE) is a
+software application that provides comprehensive
+facilities to computer programmers for software development.
+An IDE normally consists of a source code editor,
+build automation tools, and a debugger.
 ```
 
 Some examples of IDEs are **IntelliJ IDEA by JetBrains**, **Code::Blocks** and **Microsoft Visual Studio**
@@ -75,7 +79,9 @@ Similar editors are [Atom](https://atom.io) and [Sublime Text](https://www.subli
 From [git-scm.com](https://git-scm.com):
 
 ```text
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+Git is a free and open source distributed version
+control system designed to handle everything from
+small to very large projects with speed and efficiency.
 ```
 
 ### Why you need it
