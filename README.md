@@ -16,7 +16,7 @@ This page contains many useful tools and links to get you started with your stud
 
 ## Linux
 
-* Intro to Linux
+* [Intro to Linux](https://docs.google.com/presentation/d/12smuo8uizgCNLvvugv8xyUZyaep_TKsEY5RcV4b7Z0g/edit?usp=sharing)
 * [Tuxedo](TUXEDO.md)
 
 ## Useful links
