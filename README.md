@@ -1,6 +1,6 @@
 # Welcome to DaTe
 
-This page contains many useful tools and links to get you stated on with your studies.
+This page contains many useful tools and links to get you started with your studies.
 
 ## Communication
 
@@ -8,9 +8,9 @@ This page contains many useful tools and links to get you stated on with your st
 * [Slack](COMMUNICATION.md#slack)
 * [Discord](COMMUNICATION.md#discord)
 
-## Setup environment
+## Setup your environment
 
-* Programmig languages, SDKs, JDKs and other animals
+* SDKs, JDKs and other animals
 * [Tools to get you started](TOOLS.md)
 * [Getting started with Git and Github](GIT.md)
 
@@ -18,3 +18,21 @@ This page contains many useful tools and links to get you stated on with your st
 
 * Intro to Linux
 * [Tuxedo](TUXEDO.md)
+
+## Useful links
+
+### [DaTe's website](https://date.abo.fi)
+
+Contains news, events and other important stuff.
+
+### [Stack Overflow](https://stackoverflow.com)
+
+Well, you'll see why...
+
+### [GitHub Student Developer Pack](https://education.github.com/pack)
+
+The best developer tools, free for students.
+
+### [eburoam.top](http://eburoam.top)
+
+Not really sure what to do with this.

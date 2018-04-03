@@ -38,6 +38,8 @@ Slack is, like Telegram, available on most platforms.
 
 Slack can also be accessed via your browser.
 
+* Ask your tutor for an invite link to DaTe's Slack.
+
 ---
 
 ## Discord
