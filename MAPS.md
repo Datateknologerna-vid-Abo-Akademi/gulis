@@ -4,7 +4,7 @@ Useful maps
 
 ## Campus map
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1j8soPDogfNipzdRmgT7fTDcEeFc&hl=sv" width="100vw" height="50vw"></iframe>
+<iframe width="100%" height="400px" src="https://www.google.com/maps/d/embed?mid=1j8soPDogfNipzdRmgT7fTDcEeFc&hl=sv"></iframe>
 
 ## Agora
 
