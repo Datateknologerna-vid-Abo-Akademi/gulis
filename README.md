@@ -21,7 +21,8 @@ Know what you have gotten in to.
 
 ## Linux
 
-* [Intro to Linux](https://docs.google.com/presentation/d/12smuo8uizgCNLvvugv8xyUZyaep_TKsEY5RcV4b7Z0g/edit?usp=sharing)
+* Intro to Linux
+* [Old intro to Linux slides](https://docs.google.com/presentation/d/12smuo8uizgCNLvvugv8xyUZyaep_TKsEY5RcV4b7Z0g/edit?usp=sharing)
 * [Tuxedo](TUXEDO.md)
 
 ## ÅA-specific stuff
