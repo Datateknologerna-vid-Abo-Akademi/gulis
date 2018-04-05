@@ -4,7 +4,15 @@ This page contains many useful tools and links to get you started with your stud
 
 ## [Start here](WELCOME.md)
 
-Know what you have gotten in to.
+* [Tutors](WELCOME.md#tutors)
+* [Intro-week](WELCOME.md#intro-week)
+
+## ÅA-specific stuff
+
+* [Maps](MAPS.md)
+* [Email](ABO.md#email)
+* [VPN](ABO.md#vpn)
+* [Tuxedo](TUXEDO.md)
 
 ## Communication
 
@@ -23,12 +31,6 @@ Know what you have gotten in to.
 
 * Intro to Linux
 * [Old intro to Linux slides](https://docs.google.com/presentation/d/12smuo8uizgCNLvvugv8xyUZyaep_TKsEY5RcV4b7Z0g/edit?usp=sharing)
-* [Tuxedo](TUXEDO.md)
-
-## ÅA-specific stuff
-
-* [Email](ABO.md#email)
-* [VPN](ABO.md#vpn)
 * [Tuxedo](TUXEDO.md)
 
 ## Interesting associations
