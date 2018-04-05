@@ -19,6 +19,12 @@ This page contains many useful tools and links to get you started with your stud
 * [Intro to Linux](https://docs.google.com/presentation/d/12smuo8uizgCNLvvugv8xyUZyaep_TKsEY5RcV4b7Z0g/edit?usp=sharing)
 * [Tuxedo](TUXEDO.md)
 
+## ÅA-specific stuff
+
+* [Email](ABO.md#email)
+* [VPN](ABO.md#vpn)
+* [Tuxedo](TUXEDO.md)
+
 ## Interesting associations
 
 * [Kemistklubben](https://kemistklubben.abo.fi)
