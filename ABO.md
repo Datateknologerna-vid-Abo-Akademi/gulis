@@ -42,6 +42,8 @@ Authentication model: Normal password
 
 [webmail.abo.fi](https://webmail.abo.fi)
 
+---
+
 ## VPN
 
 The ÅA VPN can be used to access internal services, such as remote desktops, file-servers and more.

@@ -2,11 +2,16 @@
 
 This page contains many useful tools and links to get you started with your studies.
 
+## [Start here](WELCOME.md)
+
+Know what you have gotten in to.
+
 ## Communication
 
 * [Telegram](COMMUNICATION.md#telegram)
 * [Slack](COMMUNICATION.md#slack)
 * [Discord](COMMUNICATION.md#discord)
+* [Email](COMMUNICATION.md#email)
 
 ## Setup your environment
 

@@ -57,3 +57,17 @@ Discord is primarily used for gaming and random chatting.
 * [Get Discord](https://discordapp.com)
 
 * Ask your tutor for an invite link to DaTe's server.
+
+## Email
+
+Emails can be sent to 
+
+```text
+username@abo.fi
+```
+
+or
+
+```text
+firstname.lastname@abo.fi
+```

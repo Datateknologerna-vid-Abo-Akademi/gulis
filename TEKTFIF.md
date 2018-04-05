@@ -8,7 +8,7 @@ This page contains information about [TEK](#tek) and [TFiF](#tfif) plus some lin
 
 TEK is a... // TODO: Fix this
 
-### Links
+### TEK Links
 
 // TODO: Fix this
 
@@ -18,6 +18,6 @@ TEK is a... // TODO: Fix this
 
 TFiF is a... // TODO: Fix this
 
-### Links
+### TFiF Links
 
 // TODO: Fix this
