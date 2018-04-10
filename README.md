@@ -52,7 +52,3 @@ Well, you'll see why...
 ### [GitHub Student Developer Pack](https://education.github.com/pack)
 
 The best developer tools, free for students.
-
-### [eburoam.top](http://eburoam.top)
-
-Not really sure what to do with this.
