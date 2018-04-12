@@ -33,6 +33,11 @@ This page contains many useful tools and links to get you started with your stud
 * [Old intro to Linux slides](https://docs.google.com/presentation/d/12smuo8uizgCNLvvugv8xyUZyaep_TKsEY5RcV4b7Z0g/edit?usp=sharing)
 * [Tuxedo](TUXEDO.md)
 
+## Git
+
+* git 101
+* [What is a repo] (https://blog.axosoft.com/learning-git-repository/)
+
 ## Interesting associations
 
 * [Kemistklubben](https://kemistklubben.abo.fi)
