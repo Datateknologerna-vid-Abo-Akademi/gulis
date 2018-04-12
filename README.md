@@ -36,7 +36,7 @@ This page contains many useful tools and links to get you started with your stud
 ## Git
 
 * git 101
-* [What is a repo] (https://blog.axosoft.com/learning-git-repository/)
+* [What is a repo](https://blog.axosoft.com/learning-git-repository/)
 
 ## Interesting associations
 
