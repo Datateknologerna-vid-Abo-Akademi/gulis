@@ -13,10 +13,17 @@ terminal (cmd on a windows)
 
 here the user is located in root ~ .
 
-
 ` username@linux:~/current_directory$ `
 
 here the user would be in current_directory
+
+-> `/directory/otherdirectory/`
+
+absolute path, starts from root directory
+
+-> `directory/otherdirectory/`
+
+this is a relative path, starts from current directory
 
 ### Basic commands
 
@@ -34,7 +41,7 @@ lists all files in current or specified directory.
 
 lists all files in Downloads directory
 
-` username@linux:~$ ls /Music/classic`
+` username@linux:~$ ls Music/classic`
 
 lists all files inside the Music/classic directory
 
@@ -70,6 +77,8 @@ Use this to copy a file to its destination
 ` username@linux:~$ cp -r sourcedirectory targetdirectory`
 
 Use this to copy a directory to its destination
+
+
 
 ## ------------------------------------------
 to still be added
