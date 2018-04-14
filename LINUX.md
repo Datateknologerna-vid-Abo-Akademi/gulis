@@ -1,9 +1,9 @@
-## Intro to Linux
+# Intro to Linux
 
 Linux is a unix based operating system, here below you will find the some useful information and the most common
 commands used in the linux terminal
 
-### basic information
+## basic information
 
 For windows people - Directory == Folder
 
@@ -25,16 +25,14 @@ absolute path, starts from root directory
 
 this is a relative path, starts from current directory
 
-### Basic commands
+## Basic commands
 
-
-#### sudo - "superuser do"
-allows users to run programs with the security privileges of another user, by default the superuser.
-Use this command infront of any command if you get access denied.
+### sudo - "superuser do"
+allows users to run programs with the security privileges of another user, by default the superuser. Use this command infront of any command if you get access denied.
 
 `username@linux:~$ sudo <command>`
 
-#### ls - list files in directory
+### ls - list files in directory
 lists all files in current or specified directory.
 
 ` username@linux:~/Downloads$ ls`
@@ -46,7 +44,7 @@ lists all files in Downloads directory
 lists all files inside the Music/classic directory
 
 
-##### cd - change directory
+#### cd - change directory
 
 ` username@linux:~$ cd <directory_path>`
 will move you to desired directory
@@ -55,7 +53,7 @@ will move you to desired directory
 will move you up one directory
 
 
-##### rm - remove /file/directory
+#### rm - remove file/directory
 
 ` username@linux:~$ rm awesomePythonProgram.py`
 
@@ -68,7 +66,7 @@ Use this to remove a directory
 ` username@linux:~$ rm -rf awesomeDirectory`
 
 Use this to force a remove
-##### cp - copy file/directory
+### cp - copy file/directory
 
 ` username@linux:~$ cp sourcefile tagetdirectroy `
 
@@ -78,25 +76,67 @@ Use this to copy a file to its destination
 
 Use this to copy a directory to its destination
 
+### mv - move file/directory
+
+` username@linux:~$ mv source taget `
+
+Use this to move a file/directory to its destination
+
+` username@linux:~$ mv file1.txt file.2.txt file3.txt directory`
+
+move multiple files into a directory
+
+` username@linux:~$ mv *.py directory`
+
+move all files with .py extension into a directory
+
+### mkdir - create directory
+
+` username@linux:~$ mkdir directoryname `
+
+Use this to create a directory to current path
 
 
-## ------------------------------------------
-to still be added
+## Text editors 
+This needs its own section
+
+
+different text editors:
+
+* vim 
+* nano
+* gedit
+* emacs
+    
+## ------------------ to still be added ------------------------
+
 
 #### Files/Directories navigating
 
-* cp - copy file/directory
-* mv - move file/directory
-* mkdir - create directory
-
 Text editors:
-    * vim 
-    * nano
-    * gedit
-    * emacs
+
+* vim 
+* nano
+* gedit
+* emacs
 
 Networking:
-    * ping - send a ping to an address
-    * ssh (also in TUXEDO.md) - remotely connect to a computer
-    * ifconfig - network interface configuration/info
-    * iwconfig - like ifconfig but dedicated to wireless
+
+* ping - send a ping to an address
+* ssh (also in TUXEDO.md) - remotely connect to a computer
+* ifconfig - network interface configuration/info
+* iwconfig - like ifconfig but dedicated to wireless
+
+# Summary
+
+COMMAND | DESCRIPTION
+------------ | -------------
+sudo | "superuser do". Use this command infront of any command if you get access denied.
+ls | lists all files in current or specified directory.
+cd | move between directories
+rm | remove a file
+rm -r |remove a directory
+cp | copy a file
+cp -r | copy a directory
+mv | move a file
+mkdir | create new directory
