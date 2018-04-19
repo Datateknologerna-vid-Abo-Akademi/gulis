@@ -1,7 +1,8 @@
 # Intro to Linux
 
 Linux is a unix based operating system, here below you will find the some useful information and the most common
-commands used in the linux terminal
+commands used in the linux terminal.
+Learn to love it, you wont be disappointed.
 
 ## basic information
 
@@ -96,13 +97,44 @@ move all files with .py extension into a directory
 
 Use this to create a directory to current path
 
+## network commands
 
+### ping - ping a server/website
+
+` username@linux:$ ping www.google.com `
+
+use this to ping a website. usefull if you want to test network connection.
+
+### ssh - remote access computer or server.
+
+` username@linux:$ ssh user@server `
+
+use this to remote access a server, e.g. tuxedo.
+
+` username@linux:$ ssh abo-username@tuxedo.abo.fi `
+
+this will connect to your tuxedo user.
+more on: [tuxedo-wiki](TUXEDO.md)
+
+### ifconfig - network interface configuration/info
+
+` username@linux:$ ifconfig `
+
+same as ipconfig on windows..
+
+### iwconfig - like ifconfig but dedicated to wireless
+
+
+` username@linux:$ iwconfig `
+
+same as above but for wireless connections
 ## Text editors 
 This needs its own section
 
 
 different text editors:
 
+* vi
 * vim 
 * nano
 * gedit
@@ -120,17 +152,11 @@ Text editors:
 * gedit
 * emacs
 
-Networking:
-
-* ping - send a ping to an address
-* ssh (also in TUXEDO.md) - remotely connect to a computer
-* ifconfig - network interface configuration/info
-* iwconfig - like ifconfig but dedicated to wireless
-
 # Summary
 
 COMMAND | DESCRIPTION
 ------------ | -------------
+  | basic
 sudo | "superuser do". Use this command infront of any command if you get access denied.
 ls | lists all files in current or specified directory.
 cd | move between directories
@@ -140,3 +166,8 @@ cp | copy a file
 cp -r | copy a directory
 mv | move a file
 mkdir | create new directory
+ | network 
+ping | ping server/website to test network connection.
+ssh | remote access computer or server.
+ifconfig | network interface configuration and info.
+iwconfig | network interface configuration and info for wireless connections only.
