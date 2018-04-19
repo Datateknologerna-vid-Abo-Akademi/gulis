@@ -156,7 +156,7 @@ Text editors:
 
 COMMAND | DESCRIPTION
 ------------ | -------------
-  | basic
+ | <strong> basic </strong>
 sudo | "superuser do". Use this command infront of any command if you get access denied.
 ls | lists all files in current or specified directory.
 cd | move between directories
@@ -166,7 +166,7 @@ cp | copy a file
 cp -r | copy a directory
 mv | move a file
 mkdir | create new directory
- | network 
+ | <strong> network </strong> 
 ping | ping server/website to test network connection.
 ssh | remote access computer or server.
 ifconfig | network interface configuration and info.
