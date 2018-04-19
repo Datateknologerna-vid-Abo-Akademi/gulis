@@ -140,18 +140,8 @@ different text editors:
 * gedit
 * emacs
     
-## ------------------ to still be added ------------------------
-
-
-#### Files/Directories navigating
-
-Text editors:
-
-* vim 
-* nano
-* gedit
-* emacs
-
+    
+    
 # Summary
 
 COMMAND | DESCRIPTION
