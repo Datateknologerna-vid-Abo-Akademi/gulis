@@ -10,6 +10,17 @@ Useful maps
 
 ## Agora
 
+### Aerial view
+
+![Agora level 1](assets/images/agora_top.png)
+
+1. Agora main entrance
+2. Natura main entrance
+3. To Axelia II and rest of campus
+4. To the church
+5. To Hämeenkatu / Tavastgatan
+6. To Assarin Ullakko
+
 ### Ground level (1)
 
 ![Agora level 1](assets/images/agora_level_1.png)
