@@ -57,10 +57,7 @@ Well, you'll see why...
 ### [GitHub Student Developer Pack](https://education.github.com/pack)
 
 The best developer tools, free for students.
-<<<<<<< Updated upstream
-=======
 
 ### [Kievinkana.net](https://www.kievinkana.net)
 
 Check if some student restaurant serves Chicken Kiev
->>>>>>> Stashed changes
