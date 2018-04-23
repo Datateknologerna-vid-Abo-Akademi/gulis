@@ -8,9 +8,11 @@ These guys help you with any questions that you may come up with. The tutors hel
 
 You can contact them via [Telegram](COMMUNICATION.md#telegram) or by [email](COMMUNICATION.md#email).
 
-### Tutors 2018
-
-*TBA*
+| Tutors 2018               |
+| ------------------------- |
+| André Nordström           |
+| Edvard "Diza" Söderback   |
+| Kristian Nykänen          |
 
 ## Intro-week
 
