@@ -2,7 +2,7 @@
 
 ## Email
 
-You have a couple of ways to access your @abo.fi email. We recommend adding the IMAP account to your favorite email client, but if you are lazy and stupid, you can read email with the unusable web-mail.
+You have a couple of ways to access your @abo.fi email. We recommend adding the IMAP account to your favorite email client, but if you are lazy you can read email with the barely usable web-mail.
 
 ### Add account to email client
 
