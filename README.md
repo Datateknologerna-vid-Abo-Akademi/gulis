@@ -50,6 +50,10 @@ This page contains many useful tools and links to get you started with your stud
 
 Contains news, events and other important stuff.
 
+### [The study plan for Computer Engineering](http://studiehandboken.abo.fi/sv/degree-programme/5071)
+
+You must open the course to see when it is actually held.
+
 ### [Stack Overflow](https://stackoverflow.com)
 
 Well, you'll see why...
@@ -57,7 +61,3 @@ Well, you'll see why...
 ### [GitHub Student Developer Pack](https://education.github.com/pack)
 
 The best developer tools, free for students.
-
-### [Kievinkana.net](https://www.kievinkana.net)
-
-Check if some student restaurant serves Chicken Kiev
