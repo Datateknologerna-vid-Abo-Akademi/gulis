@@ -35,7 +35,7 @@ This page contains many useful tools and links to get you started with your stud
 
 ## Git
 
-* git 101
+* [git 101](http://rogerdudler.github.io/git-guide/)
 * [What is a repo](https://blog.axosoft.com/learning-git-repository/)
 
 ## Interesting associations
