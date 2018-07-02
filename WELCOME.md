@@ -14,6 +14,8 @@ You can contact them via [Telegram](COMMUNICATION.md#telegram) or by [email](COM
 | Edvard "Diza" Söderback   |
 | Kristian Nykänen          |
 
+Full-blown tutor greeting: [imgur](https://imgur.com/a/fZdNxxt)
+
 ## Intro-week
 
 Time: **27.-31.8.2018**
