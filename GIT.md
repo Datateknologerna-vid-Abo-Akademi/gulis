@@ -1,6 +1,12 @@
 # Getting started with Git and Github
+This will hold general information how to get started with Git and Github
 
-soon...
+
+### Github Desktop (Windows and OS only)
+
+Github has a great desktop application for users that are not comfortable with command promt/terminal or want a more visual overview of your repositories.
+
+Find out more here: [Desktop client](https://help.github.com/desktop/guides/getting-started-with-github-desktop/)
 
 ## Learn interactively
 
