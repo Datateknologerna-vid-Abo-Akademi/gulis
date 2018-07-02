@@ -26,4 +26,4 @@ During the introduction week, you will
 * Learn about [TEK and TFiF](TEKTFIF.md)
 * Have fun!
 
-A link to the intro week program, will appear here.
+**The program for the introduction week can be found [here](https://www.abo.fi/wp-content/uploads/2018/06/Studorientering-IT.pdf).**
