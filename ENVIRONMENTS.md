@@ -94,6 +94,10 @@ To get the latest version of Python, visit [Python Downloads page](https://www.p
 
 The rest is exactly like the installation of Python 2.7
 
+#### Online console
+
+Python provides a web shell (online console) running python 3.6.0 on thier front page [Check it out](https://www.python.org/shell/).
+
 ## Java
 
 It is mostly recommended to use the latest version of Java and to keep it up to date to avoid any security issues or other problems.
