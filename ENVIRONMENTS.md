@@ -5,8 +5,10 @@ In your studies, you will primarily develop in Python and Java. On this page we 
 ## Content
 
 * [Python](#python)
-  * [Python 2.7](#python-2.7)
+  * [Python 2.7](#Python-2.7)
   * [Python 3.7](#python-3.7)
+  * [Python 3.6 online console](#Python-3.6-online-console)
+  * [Virtualenv](#virtualenv)
 
 * [Java](#java)
 
