@@ -17,7 +17,10 @@ Telegram is available on most platforms.
 
 * [Read more and download Telegram](https://telegram.org)
 
-* [Browser version of Telegram](https://web.telegram.org)
+* [Browser version of Telegram](https://web.telegram.org) 
+
+Join the community  
+* Through a invite link you can join our group for everyone studying Computer engineering at ÅAU.
 
 ---
 
