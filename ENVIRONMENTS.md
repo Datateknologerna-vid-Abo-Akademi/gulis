@@ -67,8 +67,6 @@ From there, select the correct installer file depending on your operating system
 
 Run the installer and follow the instructions.
 
-Very // TODO: wtf was I writing here
-
 ### Python 3.7
 
 Installing Python 3.7 or any other version, is very similar to the process of installing Python 2.7.
@@ -100,26 +98,36 @@ The rest is exactly like the installation of Python 2.7
 
 Python provides a web shell (online console) running python 3.6.0 on thier front page [Check it out](https://www.python.org/shell/).  
 A great small tool if you don't have any other snakes to play around with nearby.
+
 ### Virtualenv
+
 > Virtualenv is a tool which allows us to make isolated python environments. How does making isolated python environments help us ? Imagine you have an application that needs version 2 of a LibraryBar, but another application requires version 2. How can you use and develop both these applications? If you install everything into /usr/lib/python2.7/site-packages (or whatever your platform’s standard location is), it’s easy to end up in a situation where you unintentionally upgrade an application that shouldn’t be upgraded.
 
 > In another case just imagine that you have an application which is fully developed and you do not want to make any change to the libraries it is using but at the same time you start developing another application which requires the updated versions of those libraries. What will you do ? It is where virtualenv comes into play. It creates isolated environments for you python application and allows you to install python libraries in that isolated environment instead of installing them globally. (https://pythontips.com/2013/07/30/what-is-virtualenv/)
 
 Here is a very short guide how to install virtualenv to get you started. Type the following command in the shell:
 
-` $ pip install virtualenv `
+```bash
+$ pip install virtualenv
+```
 
 Then, create an isolated virtualenv environment inside a folder MyEnv
 
-` $ virutalenv MyEnv `
+```bash
+$ virutalenv MyEnv `
+```
 
 Activate your virtual environment with (for within the folder)
 
-` # source bin/active `
+```bash
+$ source bin/active
+```
 
 when activated, install required libraries without any disturbance to the gobal libraries or the libraries of the other environments.
 
 Virtualenv might not be used in your first programming course but it's good to know about.  Many if not all IDEs use virtual environments of some sort.
+
+A more detailed description can be found in the [gulis-chat project](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis-chat/tree/master/part2#21-virtual-environments).
 
 ## Java
 
