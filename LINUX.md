@@ -12,7 +12,7 @@ For windows people - Directory == Folder
 
 ### Terminal (the command line cmd on Windows never was)
 
-Here the user is located in root ~ :
+Here the user is located in their home directory `~` :
 
 ```bash
 username@linux:~$
