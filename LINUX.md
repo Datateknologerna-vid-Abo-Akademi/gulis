@@ -1,148 +1,229 @@
 # Intro to Linux
 
-Linux is a unix based operating system, here below you will find the some useful information and the most common
-commands used in the linux terminal.
-Learn to love it, you wont be disappointed.
+Linux is a UNIX-like operating system. On this page you find the some useful information and the most common commands used in the Linux environment.
 
-## basic information
+Learn to love it, you won't be disappointed.
+
+If you want more information about a command, the usual way is to use the `--help` argument or the `man <command>` command.
+
+## Basic information
 
 For windows people - Directory == Folder
 
-terminal (cmd on a windows)
+### Terminal (the command line cmd on Windows never was)
 
-` username@linux:~$ `
+Here the user is located in root ~ :
 
-here the user is located in root ~ .
+```bash
+username@linux:~$
+```
 
-` username@linux:~/current_directory$ `
+And here the user would be in current_directory:
 
-here the user would be in current_directory
+```bash
+username@linux:~/current_directory$
+```
 
--> `/directory/otherdirectory/`
+Absolute path, starts from root directory:
 
-absolute path, starts from root directory
+```bash
+/directory/otherdirectory/
+```
 
--> `directory/otherdirectory/`
+Relative path, starts from current directory:
 
-this is a relative path, starts from current directory
+```bash
+directory/otherdirectory/
+```
 
 ## Basic commands
 
 ### sudo - "superuser do"
-allows users to run programs with the security privileges of another user, by default the superuser. Use this command infront of any command if you get access denied.
 
-`username@linux:~$ sudo <command>`
+Allows users to run programs with the security privileges of another user, by default the superuser. Use this command in front of any command if you get access denied, or don't, you may potentially destroy something.
+
+```bash
+username@linux:~$ sudo <command>
+```
 
 ### ls - list files in directory
-lists all files in current or specified directory.
 
-` username@linux:~/Downloads$ ls`
+Lists all files in current or specified directory.
 
-lists all files in Downloads directory
+List all files in the current directory, here Downloads:
 
-` username@linux:~$ ls Music/classic`
+```bash
+username@linux:~/Downloads$ ls
+```
 
-lists all files inside the Music/classic directory
+List all files inside the Music/classic directory:
 
+```bash
+username@linux:~$ ls Music/classic
+```
 
 #### cd - change directory
 
-` username@linux:~$ cd <directory_path>`
-will move you to desired directory
+Move inside a directory:
 
-` username@linux:~$ cd ..`
-will move you up one directory
+```bash
+username@linux:~$ cd <directory_path>
+```
+To move up one directory:
 
+```bash
+username@linux:~$ cd ..
+```
+
+`.` refers to current directory, while `..` refers to the parent.
 
 #### rm - remove file/directory
 
-` username@linux:~$ rm awesomePythonProgram.py`
+Remove `awesomePythonProgram.py`:
 
-Use this to remove a file
+```bash
+username@linux:~$ rm awesomePythonProgram.py
+```
 
-` username@linux:~$ rm -r awesomeDirectory`
+Remove a directory:
 
-Use this to remove a directory
+```bash
+username@linux:~$ rm -r awesomeDirectory
+```
 
-` username@linux:~$ rm -rf awesomeDirectory`
+The `-f` is used to remove forcefully:
 
-Use this to force a remove
+```bash
+username@linux:~$ rm -rf awesomeDirectory
+```
+
 ### cp - copy file/directory
 
-` username@linux:~$ cp sourcefile tagetdirectroy `
+Copy a file to a target. If the target is a directory, the filename will remain unchanged:
 
-Use this to copy a file to its destination
+```bash
+username@linux:~$ cp sourcefile tagetdirectroy
+```
 
-` username@linux:~$ cp -r sourcedirectory targetdirectory`
+This would also rename the new file from `a.txt` to `b.txt`:
 
-Use this to copy a directory to its destination
+```bash
+username@linux:~$ cp a.txt tagetdirectroy/b.txt
+```
+
+Use `-r` to copy a directory and its contents:
+
+```bash
+username@linux:~$ cp -r sourcedirectory targetdirectory
+```
 
 ### mv - move file/directory
 
-` username@linux:~$ mv source taget `
+Use this to move a file/directory to its destination:
 
-Use this to move a file/directory to its destination
+```bash
+username@linux:~$ mv source taget
+```
 
-` username@linux:~$ mv file1.txt file.2.txt file3.txt directory`
+Move multiple files into a directory:
 
-move multiple files into a directory
+```bash
+username@linux:~$ mv file1.txt file.2.txt file3.txt directory
+```
 
-` username@linux:~$ mv *.py directory`
+Move all files with .py extension into a directory
 
-move all files with .py extension into a directory
+```bash
+username@linux:~$ mv *.py directory
+```
+
+Rename `a.txt` to `b.txt` by moving inside same directory:
+
+```bash
+username@linux:~$ mv a.txt b.txt
+```
+
+`mv` can, like `cp`, also move directories.
 
 ### mkdir - create directory
 
-` username@linux:~$ mkdir directoryname `
+Used to create directories.
 
-Use this to create a directory to current path
+```bash
+username@linux:~$ mkdir directoryname
+```
 
-## network commands
+## Network commands
 
 ### ping - ping a server/website
 
-` username@linux:$ ping www.google.com `
+Use this to ping a website. useful if you want to test your network connection or if a server is up.
 
-use this to ping a website. usefull if you want to test network connection.
+```bash
+username@linux:$ ping www.google.com
+```
 
 ### ssh - remote access computer or server.
 
-` username@linux:$ ssh user@server `
+Use this to remote access a server, e.g. tuxedo.
 
-use this to remote access a server, e.g. tuxedo.
+```bash
+username@linux:$ ssh user@server
+```
 
-` username@linux:$ ssh abo-username@tuxedo.abo.fi `
+To connect using a different port than the default 22, use the `-p` flag:
 
-this will connect to your tuxedo user.
-more on: [tuxedo-wiki](TUXEDO.md)
+```bash
+username@linux:$ ssh user@server -p 1234
+```
+
+The following will connect to tuxedo, to your account:
+
+```bash
+username@linux:$ ssh abo-username@tuxedo.abo.fi
+```
+
+More about tuxedo: [tuxedo-wiki](TUXEDO.md)
 
 ### ifconfig - network interface configuration/info
 
-` username@linux:$ ifconfig `
+Shows your network interfaces and displays information about them. Similar to `ipconfig` on Windows.
 
-same as ipconfig on windows..
+Show all network interfaces:
 
-### iwconfig - like ifconfig but dedicated to wireless
+```bash
+username@linux:$ ifconfig
+```
 
+Show a specific interface:
 
-` username@linux:$ iwconfig `
+```bash
+username@linux:$ ifconfig eth0
+```
 
-same as above but for wireless connections
-## Text editors 
-This needs its own section
+This command is being slownly replaced py `ip`. Try to do `man ip` to read more about it if it is available on your system.
 
+### iwconfig - like ifconfig but for wireless interfaces
 
-different text editors:
+Almost the same as `ifconfig` but only displays wireless interfaces.
+
+```bash
+username@linux:$ iwconfig
+```
+
+## Text editors
+
+This needs its own section.
+
+Different text editors:
 
 * vi
-* vim 
+* vim
 * nano
 * gedit
 * emacs
-    
-    
-    
-# Summary
+
+## Summary
 
 COMMAND | DESCRIPTION
 ------------ | -------------
