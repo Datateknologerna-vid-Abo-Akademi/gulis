@@ -6,7 +6,7 @@ This page contains many useful tools and links to get you started with your stud
 
 * [Tutors](WELCOME.md#tutors)
 * [Intro-week](WELCOME.md#intro-week)
-* [Get started (What to type here?)](AFK.md)
+* [AFK - Life as a student](AFK.md)
 
 ## ÅA-specific stuff
 
