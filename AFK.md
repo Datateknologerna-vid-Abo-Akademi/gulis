@@ -1,6 +1,7 @@
 # Things to know AFK (away from keyboard)
 
 // TODO: Reorganize this
+
 // TODO: add relevant stuff like FRANK, study grant and more?
 
 ## Before school starts
