@@ -6,6 +6,29 @@ Learn to love it, you won't be disappointed.
 
 If you want more information about a command, the usual way is to use the `--help` argument or the `man <command>` command.
 
+## Table of Contents
+
+Terminal commands
+* [SUDO](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#sudo---superuser-do)  
+* [List files](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ls---list-files-in-directory)  
+* [Change directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#cd---change-directory)  
+* [Remove file/directroy](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#rm---remove-filedirectory)  
+* [Copy file/directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#cp---copy-filedirectory)  
+* [Move file/directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#mv---move-filedirectory)  
+* [Create directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#mkdir---create-directory)  
+
+Network commands
+* [ping](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ping---ping-a-serverwebsite)  
+* [ssh](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ssh---remote-access-computer-or-server)  
+* [telnet]( ) //TODO: fix link
+* [ifconfig](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ifconfig---network-interface-configurationinfo)  
+* [iwconfig](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#iwconfig---like-ifconfig-but-for-wireless-interfaces)  
+* [nslookup]( ) //TODO: fix link
+* [traceroute](  ) //TODO: fix link
+
+
+[text editors](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#text-editors)  
+[Summary](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#summary)  
 ## Basic information
 
 For windows people - Directory == Folder
@@ -185,6 +208,17 @@ username@linux:$ ssh abo-username@tuxedo.abo.fi
 
 More about tuxedo: [tuxedo-wiki](TUXEDO.md)
 
+### telnet -  Talk to “hosts” at the given port number.
+
+By default, the telnet port is port 23. Few other famous ports are:  
+7 – echo port,  
+25 – SMTP, use to send mail  
+79 – Finger, provides information on other users of the network  
+
+```bash
+username@linux:$ telnet host <port>
+```
+
 ### ifconfig - network interface configuration/info
 
 Shows your network interfaces and displays information about them. Similar to `ipconfig` on Windows.
@@ -210,6 +244,14 @@ Almost the same as `ifconfig` but only displays wireless interfaces.
 ```bash
 username@linux:$ iwconfig
 ```
+
+### nslookup - translate IP address to name
+
+Makes queries to the DNS server to translate IP to a name, or vice versa. eg. nslookup miniclip.com will gives you the IP of miniclip.com
+
+### traceroute - tracing route of IP address
+
+Useful for tracing the route of IP packets. The packet causes messages to be sent back from all gateways in between the source and destination by increasing the number of hopes by 1 each time.
 
 ## Text editors
 
