@@ -2,8 +2,6 @@
 
 // TODO: Reorganize this
 
-// TODO: add relevant stuff like FRANK, study grant and more?
-
 ## Before school starts
 
 Bring something to write on (in addition to your computer), a few pens/pencils and a rubber.
@@ -33,6 +31,13 @@ If you decide to go for a plastic card, you will also need a Student Card sticke
 
 To avoid ruining your life by sitting in front of the computer all day, you may want to exercise. CampusSport offers cheap gym access and many organized activities in different sports.
 
-The annual gym membership is about 60 euros! // TODO: check this
+The annual gym membership is only 66 euros!
+
+With that you get:
+* Unlimited gymtime from [5 different gyms](http://www.campussport.fi/en/selection-of-sports/gyms/).
+* Over 100 hours of instructed lessons each week, [schedule here](http://www.campussport.fi/en/selection-of-sports/liikunta-aikataulu-en/).
+* Ball sports.
+* Many [other activities](http://www.campussport.fi/en/selection-of-sports/workout-descriptions/).
+* Rent/Lend equipment for outdoor sports free of charge.
 
 Read more about what CampusSport can offer on [their website](http://www.campussport.fi) or ask a tutor.
