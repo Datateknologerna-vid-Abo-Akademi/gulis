@@ -36,4 +36,4 @@ Here's a preliminary schedule
 
 | Monday   | Thuesday     | Wednesday         | Thursday   | Friday   | Weekend      |
 | ---------|:-------------|:------------------|:-----------|:---------|:-------------|
-| Tfif GP  | coming soon  | ASK i arkenparken | restday    | Sitz     | Free weekend |
+| Tfif GP  | Bowling      | ASK i arkenparken | restday    | Sitz     | Free weekend |
