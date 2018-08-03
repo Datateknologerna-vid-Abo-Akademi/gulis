@@ -9,6 +9,7 @@ In your studies, you will primarily develop in Python and Java. On this page we 
   * [Python 3.7](#python-37)
   * [Python 3.6 online console](#Python-36-online-console)
   * [Virtualenv](#virtualenv)
+  * [pipenv](#pipenv)
 
 * [Java](#java)
 
@@ -128,6 +129,24 @@ when activated, install required libraries without any disturbance to the gobal 
 Virtualenv might not be used in your first programming course but it's good to know about.  Many if not all IDEs use virtual environments of some sort.
 
 A more detailed description can be found in the [gulis-chat project](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis-chat/tree/master/part2#21-virtual-environments).
+
+### pipenv
+
+#### A brief history of Python package installation
+
+To understand the problems that Pipenv solves, it's useful to show how Python package management has evolved.
+
+Take yourself back to the first Python iteration. We had Python, but there was no clean way to install packages.
+
+Then came Easy Install, a package that installs other Python packages with relative ease. But it came with a catch: it wasn't easy to uninstall packages that were no longer needed.
+
+Enter pip, which most Python users are familiar with. pip lets us install and uninstall packages. We could specify versions, run pip freeze > requirements.txt to output a list of installed packages to a text file, and use that same text file to install everything an app needed with pip install -r requirements.txt.
+
+But pip didn't include a way to isolate packages from each other. We might work on apps that use different versions of the same libraries, so we needed a way to enable that. Along came virtual environments, which enabled us to create small, isolated environments for each app we worked on. We've seen many tools for managing virtual environments: virtualenv, venv, virtualenvwrapper, pyenv, pyenv-virtualenv, pyenv-virtualenvwrapper, and even more. They all play well with pip and requirements.txt files.  
+ [Reference](https://opensource.com/article/18/2/why-python-devs-should-use-pipenv)
+
+#### Pipenv fixes this problem, what a great friend!
+Let's learn more about pipenv [here](https://github.com/pypa/pipenv)
 
 ## Java
 
