@@ -31,4 +31,9 @@ During the introduction week, you will
 **The schedule for the introduction week can be found [here](https://www.abo.fi/wp-content/uploads/2018/06/Studorientering-IT.pdf).**
 
 **Tutors and student associations will host evening activities for you. This is not mandatory but highly recommended.**
-more information will come..
+
+Here's a preliminary schedule
+
+| Monday   | Thuesday     | Wednesday         | Thursday   | Friday   | Weekend      |
+| ---------|:-------------|:------------------|:-----------|:---------|:-------------|
+| Tfif GP  | coming soon  | ASK i arkenparken | restday    | Sitz     | Free weekend |
