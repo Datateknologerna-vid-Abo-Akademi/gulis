@@ -333,11 +333,13 @@ This needs its own section.
 
 Different text editors:
 
-* vi
-* vim
-* nano
-* gedit
-* emacs
+* vi - [external link](https://www.cs.colostate.edu/helpdocs/vi.html)
+* vim - [external link](https://www.linux.com/learn/vim-101-beginners-guide-vim)
+* nano - [external link](https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/)
+* gedit - [external link](https://help.gnome.org/users/gedit/stable/gedit-quickstart.html.en)
+* emacs - [external link](https://www.digitalocean.com/community/tutorials/how-to-use-the-emacs-editor-in-linux)
+
+[10 best Text editors for linux and programming 2017](https://fossbytes.com/9-best-text-editors-linux-programming-2017/)
 
 ## Summary
 
