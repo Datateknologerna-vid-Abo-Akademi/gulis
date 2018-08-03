@@ -10,6 +10,9 @@ If you want more information about a command, the usual way is to use the `--hel
 
 Terminal commands
 * [SUDO](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#sudo---superuser-do)  
+* [man]( ) TODO: fix link
+* [top]( ) TODO: fix link
+* [pwd]( ) TODO: fix link
 * [ls - List files](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ls---list-files-in-directory)  
 * [cd - Change directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#cd---change-directory)  
 * [rm - Remove file/directroy](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#rm---remove-filedirectory)  
@@ -23,6 +26,7 @@ Network commands
 * [telnet](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#telnet----talk-to-hosts-at-the-given-port-number)  
 * [ifconfig](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ifconfig---network-interface-configurationinfo)  
 * [iwconfig](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#iwconfig---like-ifconfig-but-for-wireless-interfaces)  
+* [whois]( ) TODO: fix link  
 * [nslookup](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#nslookup---translate-ip-address-to-name)  
 * [traceroute](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#traceroute---tracing-route-of-ip-address)  
 
@@ -67,6 +71,68 @@ Allows users to run programs with the security privileges of another user, by de
 ```bash
 username@linux:~$ sudo <command>
 ```
+
+### man - show manual for command
+
+Every linux command comes with a manual how to be used. use ``man`` to get manual.
+
+e.g.
+```bash
+username@linux:~/$ man ls
+```
+Shows manual for listing files in directory.  
+
+### top - monitor processes and system resources (task manager)
+
+start process by simply typing 
+```bash
+username@linux:~/$ top
+```
+``top`` will show all running processes.
+TODO: update list (DONT USE THIS!!!)  
+```bash
+Mem: 60964K used, 1532K free, 0K shrd, 9044K buff, 36972K cached
+CPU:   8% usr  57% sys   0% nice   4% idle  29% io   0% irq   0% softirq
+Load average: 1.88 0.88 0.39
+  PID  PPID USER     STAT   VSZ %MEM %CPU COMMAND
+  200   198 root     S     214m 350%  44% ./tuska_interface
+   19     2 root     DW<      0   0%  14% [mmcqd]
+  249   233 root     R     3144   5%   0% top
+   12     2 root     SW<      0   0%   0% [kswapd0]
+  203     1 root     S     3144   5%   0% telnetd -p 23 -b 10.10.10.4
+  233   203 root     S     3144   5%   0% -sh
+  198     1 root     S     3144   5%   0% /bin/sh /etc/init.d/rcS
+    1     0 root     S     3140   5%   0% init
+   36     1 root     S <   1592   3%   0% /sbin/udevd --daemon
+   17     2 root     SW<      0   0%   0% [ubi_bgt0d]
+    9     2 root     SW<      0   0%   0% [kmmcd]
+    2     0 root     SW<      0   0%   0% [kthreadd]
+    3     2 root     SW<      0   0%   0% [ksoftirqd/0]
+    4     2 root     SW<      0   0%   0% [events/0]
+    5     2 root     SW<      0   0%   0% [khelper]
+    6     2 root     SW<      0   0%   0% [kblockd/0]
+    7     2 root     SW<      0   0%   0% [ksuspend_usbd]
+    8     2 root     SW<      0   0%   0% [khubd]
+   10     2 root     SW       0   0%   0% [pdflush]
+   11     2 root     SW       0   0%   0% [pdflush]
+   13     2 root     SW<      0   0%   0% [aio/0]
+   14     2 root     SW<      0   0%   0% [nfsiod]
+   15     2 root     SW<      0   0%   0% [scsi_tgtd/0]
+   16     2 root     SW<      0   0%   0% [mtdblockd]
+   18     2 root     SW<      0   0%   0% [rpciod/0]
+  191     2 root     SW<      0   0%   0% [ubi_bgt1d]
+  195     2 root     SW<      0   0%   0% [ubifs_bgt1_0]
+```
+terminate a process by typing ``kill PID`` 
+
+### pwd - print working directory
+
+Self explanatory, prints where you are in directory hierarchy.
+
+```bash
+username@linux:~/$ pwd
+```
+prints working directory from root to where you are.
 
 ### ls - list files in directory
 
@@ -244,6 +310,14 @@ Almost the same as `ifconfig` but only displays wireless interfaces.
 username@linux:$ iwconfig
 ```
 
+### whois - Who dis?  
+domain lookup
+
+```bash
+username@linux:$ whois www.google.com
+```
+TODO: improve description
+
 ### nslookup - translate IP address to name
 
 Makes queries to the DNS server to translate IP to a name, or vice versa. eg. nslookup miniclip.com will gives you the IP of miniclip.com
@@ -270,16 +344,22 @@ COMMAND | DESCRIPTION
 ------------ | -------------
  | <strong> basic </strong>
 sudo | "superuser do". Use this command infront of any command if you get access denied.
-ls | lists all files in current or specified directory.
-cd | move between directories
-rm | remove a file
-rm -r |remove a directory
-cp | copy a file
-cp -r | copy a directory
-mv | move a file
-mkdir | create new directory
- | <strong> network </strong> 
-ping | ping server/website to test network connection.
-ssh | remote access computer or server.
-ifconfig | network interface configuration and info.
-iwconfig | network interface configuration and info for wireless connections only.
+man | Manual for each command.
+top | Rerminal task manager
+pwd | Print working directory
+ls | Lists all files in current or specified directory.
+cd | Move between directories
+rm | Remove a file
+rm -r |Remove a directory
+cp | Copy a file
+cp -r | Copy a directory
+mv | Move a file
+mkdir | Create new directory
+ | <strong> Network </strong> 
+ping | Ping server/website to test network connection.
+ssh | Remote access computer or server.
+ifconfig | Network interface configuration and info.
+iwconfig | Network interface configuration and info for wireless connections only.
+whois | Doman lookup
+nslookup | Translate IP address to name
+traceroute | Tracing route of IP address
