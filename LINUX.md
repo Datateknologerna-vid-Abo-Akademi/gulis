@@ -10,9 +10,9 @@ If you want more information about a command, the usual way is to use the `--hel
 
 Terminal commands
 * [SUDO](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#sudo---superuser-do)  
-* [man]( ) TODO: fix link
-* [top]( ) TODO: fix link
-* [pwd]( ) TODO: fix link
+* [man](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#man---show-manual-for-command)
+* [top](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#top---monitor-processes-and-system-resources-task-manager)
+* [pwd](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#pwd---print-working-directory)
 * [ls - List files](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ls---list-files-in-directory)  
 * [cd - Change directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#cd---change-directory)  
 * [rm - Remove file/directroy](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#rm---remove-filedirectory)  
@@ -26,7 +26,7 @@ Network commands
 * [telnet](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#telnet----talk-to-hosts-at-the-given-port-number)  
 * [ifconfig](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ifconfig---network-interface-configurationinfo)  
 * [iwconfig](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#iwconfig---like-ifconfig-but-for-wireless-interfaces)  
-* [whois]( ) TODO: fix link  
+* [whois](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#whois---who-dis)  
 * [nslookup](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#nslookup---translate-ip-address-to-name)  
 * [traceroute](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#traceroute---tracing-route-of-ip-address)  
 
