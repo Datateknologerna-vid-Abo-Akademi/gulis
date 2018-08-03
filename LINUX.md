@@ -31,7 +31,8 @@ Network commands
 * [traceroute](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#traceroute---tracing-route-of-ip-address)  
 
 [text editors](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#text-editors)  
-[Summary](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#summary)  
+### [Summary](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#summary)  
+---
 ## Basic information
 
 For windows people - Directory == Folder
