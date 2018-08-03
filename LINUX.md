@@ -10,22 +10,21 @@ If you want more information about a command, the usual way is to use the `--hel
 
 Terminal commands
 * [SUDO](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#sudo---superuser-do)  
-* [List files](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ls---list-files-in-directory)  
-* [Change directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#cd---change-directory)  
-* [Remove file/directroy](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#rm---remove-filedirectory)  
-* [Copy file/directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#cp---copy-filedirectory)  
-* [Move file/directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#mv---move-filedirectory)  
-* [Create directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#mkdir---create-directory)  
+* [ls - List files](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ls---list-files-in-directory)  
+* [cd - Change directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#cd---change-directory)  
+* [rm - Remove file/directroy](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#rm---remove-filedirectory)  
+* [cp - Copy file/directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#cp---copy-filedirectory)  
+* [mv - Move file/directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#mv---move-filedirectory)  
+* [mkdir - Create directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#mkdir---create-directory)  
 
 Network commands
 * [ping](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ping---ping-a-serverwebsite)  
 * [ssh](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ssh---remote-access-computer-or-server)  
-* [telnet]( ) //TODO: fix link
+* [telnet](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#telnet----talk-to-hosts-at-the-given-port-number)  
 * [ifconfig](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ifconfig---network-interface-configurationinfo)  
 * [iwconfig](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#iwconfig---like-ifconfig-but-for-wireless-interfaces)  
-* [nslookup]( ) //TODO: fix link
-* [traceroute](  ) //TODO: fix link
-
+* [nslookup](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#nslookup---translate-ip-address-to-name)  
+* [traceroute](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#traceroute---tracing-route-of-ip-address)  
 
 [text editors](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#text-editors)  
 [Summary](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#summary)  
