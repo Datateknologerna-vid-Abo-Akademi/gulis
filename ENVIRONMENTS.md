@@ -7,13 +7,13 @@ In your studies, you will primarily develop in Python and Java. On this page we 
 * [Python](#python)
   * [Python 2.7](#python-27)
   * [Python 3.7](#python-37)
-  * [Python 3.6 online console](#Python-36-online-console)
+  * [Python 3.6 online console](#python-36-online-console)
   * [Virtualenv](#virtualenv)
   * [pipenv](#pipenv)
 
 * [Java](#java)
-  * [JDK, JRE and JVM](#JDK-JRE-and-JVM)
-  * [Install Java JDK](#Install-JDK)
+  * [JDK, JRE and JVM](#jdk-jre-and-jvm)
+  * [Install Java JDK](#install-java-jdk)
   
   
 ## Python
