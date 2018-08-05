@@ -12,7 +12,10 @@ In your studies, you will primarily develop in Python and Java. On this page we 
   * [pipenv](#pipenv)
 
 * [Java](#java)
-
+  * [JDK, JRE and JVM](#JDK-JRE-and-JVM)
+  * [Install Java JDK](#Install-JDK)
+  
+  
 ## Python
 
 The first programming course that you take, is in Python, Python 2.7 to be precise. Linux and macOS usually come pre-installed with some version of Python, so these guides are mostly for Windows users.
@@ -156,7 +159,33 @@ Oracle recently decided to increase the frequency of Java releases, releasing a 
 
 However, to get you started, it is probably best if you install Java 8, as it is a LTS (Long Term Support) version, receiving updates at least until March 2022.
 
-To develop using Java, you need the JDK (Java Development Kit). This is different from the JRE (Java Runtime Environment), Which is only used for running the software, while the JDK contains documentation and compilers and other development related content.
+### JDK, JRE and JVM
+
+#### JVM - Java Virtual Machine
+
+JVM (Java Virtual Machine) is an abstract machine that enables your computer to run a Java program.
+
+When you run the Java program, Java compiler first compiles your Java code to bytecode. Then, the JVM translates bytecode into native machine code (set of instructions that a computer's CPU executes directly).
+
+Java is a platform-independent language. It's because when you write Java code, it's ultimately written for JVM but not your physical machine (computer). Since, JVM ​executes the Java bytecode which is platform independent, Java is platform-independent.  
+
+#### JRE - Java Runtime Environment
+
+JRE (Java Runtime Environment) is a software package that provides Java class libraries, along with Java Virtual Machine (JVM), and other components to run applications written in Java programming. JRE is the superset of JVM.
+
+JRE contains JVM and other Java class libraries.
+
+If you need to run Java programs, but not develop them, JRE is what you need. Not what we need! keep on reading ;)
+
+#### JDK - Java Development Kit
+
+JDK (Java Development Kit) is a software development kit to develop applications in Java. When you download JDK, JRE is also downloaded, and don't need to download it separately. In addition to JRE, JDK also contains number of development tools (compilers, JavaDoc, Java Debugger etc).
+
+JDK contains JRE and other tools to develop Java applications.
+
+### Install Java JDK 
+
+To develop using Java, you need the JDK. This is different from the JRE, Which is only used for running the software, while the JDK contains documentation and compilers and other development related content.
 
 The JDK also contains a JRE, so no need to install both
 
@@ -165,6 +194,7 @@ Oh, and we will install Java SE (Standard Edition).
 To sum it all up in one phrase, we will install `Java SE Development Kit 8`
 
 All platforms find the Oracle Java SE Development Kit 8 packages at the [downloads page](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). You must accept the Licence Agreement before you can download.
+
 
 ### Windows
 
