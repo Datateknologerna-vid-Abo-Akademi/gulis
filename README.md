@@ -60,7 +60,7 @@ You must open the course to see when it is actually held.
 
 Well, you'll see why...
 
-### [I'm stuck with my python homework](https://www.programiz.com/python-programming)
+### [I'm stuck with my python homework](https://www.programiz.com/python-programming#tutorial)
 
 If you ever get stuck or want to learn more about python, check this out!
 
