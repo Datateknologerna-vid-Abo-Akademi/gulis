@@ -365,7 +365,7 @@ Different text editors:
 
 COMMAND | DESCRIPTION
 ------------ | -------------
- | <strong> basic </strong>
+ | **basic**
 sudo | "superuser do". Use this command infront of any command if you get access denied.
 man | Manual for each command.
 top | Rerminal task manager
@@ -378,7 +378,7 @@ cp | Copy a file
 cp -r | Copy a directory
 mv | Move a file
 mkdir | Create new directory
- | <strong> Network </strong> 
+ | **Network**
 ping | Ping server/website to test network connection.
 ssh | Remote access computer or server.
 ifconfig | Network interface configuration and info.
