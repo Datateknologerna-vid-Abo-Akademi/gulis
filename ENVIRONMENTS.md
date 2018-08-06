@@ -14,8 +14,7 @@ In your studies, you will primarily develop in Python and Java. On this page we 
 * [Java](#java)
   * [JDK, JRE and JVM](#jdk-jre-and-jvm)
   * [Install Java JDK](#install-java-jdk)
-  
-  
+
 ## Python
 
 The first programming course that you take, is in Python, Python 2.7 to be precise. Linux and macOS usually come pre-installed with some version of Python, so these guides are mostly for Windows users.
@@ -118,7 +117,7 @@ $ pip install virtualenv
 Then, create an isolated virtualenv environment inside a folder MyEnv
 
 ```bash
-$ virutalenv MyEnv `
+$ virutalenv MyEnv
 ```
 
 Activate your virtual environment with (for within the folder)
@@ -149,7 +148,8 @@ But pip didn't include a way to isolate packages from each other. We might work 
  [Reference](https://opensource.com/article/18/2/why-python-devs-should-use-pipenv)
 
 #### Pipenv fixes this problem, what a great friend!
-Let's learn more about pipenv [here](https://github.com/pypa/pipenv)
+
+Learn more about pipenv [here](https://github.com/pypa/pipenv)
 
 ## Java
 
@@ -183,7 +183,7 @@ JDK (Java Development Kit) is a software development kit to develop applications
 
 JDK contains JRE and other tools to develop Java applications.
 
-### Install Java JDK 
+### Install Java JDK
 
 To develop using Java, you need the JDK. This is different from the JRE, Which is only used for running the software, while the JDK contains documentation and compilers and other development related content.
 
@@ -194,7 +194,6 @@ Oh, and we will install Java SE (Standard Edition).
 To sum it all up in one phrase, we will install `Java SE Development Kit 8`
 
 All platforms find the Oracle Java SE Development Kit 8 packages at the [downloads page](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). You must accept the Licence Agreement before you can download.
-
 
 ### Windows
 
