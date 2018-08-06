@@ -23,7 +23,7 @@ Time: **27.-31.8.2018**
 During the introduction week, you will
 
 * Meet the tutors
-* Meet other new people
+* Meet new people
 * Become familiar with campus and the university
 * Learn about [TEK and TFiF](TEKTFIF.md)
 * Have fun!
@@ -32,8 +32,14 @@ During the introduction week, you will
 
 **Tutors and student associations will host evening activities for you. This is not mandatory but highly recommended.**
 
-Here's a preliminary schedule
+Here's a preliminary schedule for evening activities
 
-| Monday   | Thuesday     | Wednesday         | Thursday   | Friday   | Weekend      |
-| ---------|:-------------|:------------------|:-----------|:---------|:-------------|
-| Tfif GP  | Bowling      | ASK i arkenparken | restday    | Sitz     | Free weekend |
+| Monday   | Thuesday     | Wednesday         | Thursday   | Friday   | Weekend     |
+| ---------|--------------|-------------------|------------|----------|-------------|
+| TFiF GP  | Bowling      | ASK in Arkenparken| Rest-day   | Sitz     | -           |
+
+## Courses
+
+The courses can be found here in the [studienhandboken](http://studiehandboken.abo.fi/sv/degree-programme/5071). You need to open each course to see when it is actually held...
+
+// TODO: add some cool parsing stuff here
