@@ -9,19 +9,21 @@ If you want more information about a command, the usual way is to use the `--hel
 ## Table of Contents
 
 Terminal commands
-* [SUDO](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#sudo---superuser-do)  
+
+* [sudo](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#sudo---superuser-do)
 * [man](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#man---show-manual-for-command)
 * [top](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#top---monitor-processes-and-system-resources-task-manager)
 * [pwd](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#pwd---print-working-directory)
 * [ls - List files](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ls---list-files-in-directory)  
 * [cd - Change directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#cd---change-directory)  
-* [rm - Remove file/directroy](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#rm---remove-filedirectory)  
+* [rm - Remove file/directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#rm---remove-filedirectory)  
 * [cp - Copy file/directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#cp---copy-filedirectory)  
 * [mv - Move file/directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#mv---move-filedirectory)  
 * [mkdir - Create directory](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#mkdir---create-directory)  
 
 Network commands
-* [ping](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ping---ping-a-serverwebsite)  
+
+* [ping](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ping---ping-a-serverwebsite)
 * [ssh](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ssh---remote-access-computer-or-server)  
 * [telnet](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#telnet----talk-to-hosts-at-the-given-port-number)  
 * [ifconfig](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#ifconfig---network-interface-configurationinfo)  
@@ -30,9 +32,13 @@ Network commands
 * [nslookup](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#nslookup---translate-ip-address-to-name)  
 * [traceroute](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#traceroute---tracing-route-of-ip-address)  
 
-[text editors](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#text-editors)  
-### [Summary](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#summary)  
+## 
+
+* [text editors](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#text-editors)  
+* [Summary](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/LINUX.md#summary)
+
 ---
+
 ## Basic information
 
 For windows people - Directory == Folder
@@ -75,22 +81,27 @@ username@linux:~$ sudo <command>
 
 ### man - show manual for command
 
-Every linux command comes with a manual how to be used. use ``man`` to get manual.
+Almost every linux command comes with a manual. Use `man` to access it.
 
-e.g.
+If you would like to know more about the command `ls`, you would type:
+
 ```bash
 username@linux:~/$ man ls
 ```
-Shows manual for listing files in directory.  
+
+To exit the manual, press `q`.
 
 ### top - monitor processes and system resources (task manager)
 
-start process by simply typing 
+start process by simply typing
+
 ```bash
 username@linux:~/$ top
 ```
-``top`` will show all running processes.
-TODO: update list (DONT USE THIS!!!)  
+
+`top` will show all running processes.
+TODO: update list (DONT USE THIS!!!)
+
 ```bash
 Mem: 60964K used, 1532K free, 0K shrd, 9044K buff, 36972K cached
 CPU:   8% usr  57% sys   0% nice   4% idle  29% io   0% irq   0% softirq
@@ -124,7 +135,12 @@ Load average: 1.88 0.88 0.39
   191     2 root     SW<      0   0%   0% [ubi_bgt1d]
   195     2 root     SW<      0   0%   0% [ubifs_bgt1_0]
 ```
-terminate a process by typing ``kill PID`` 
+
+For a list of commands you can use inside `top`, press the `h` key while the program is running.
+
+As an example, you kan press `k` to kill a process. Just enter the process ID (PID) after pressing `k`, or press enter to kill the topmost process.
+
+To terminate a process outside `top`, use `kill PID`, where `PID` is the process you want dead.
 
 ### pwd - print working directory
 
@@ -133,7 +149,8 @@ Self explanatory, prints where you are in directory hierarchy.
 ```bash
 username@linux:~/$ pwd
 ```
-prints working directory from root to where you are.
+
+Prints the absolute path for the current working directory, AKA where you currently are.
 
 ### ls - list files in directory
 
@@ -158,7 +175,8 @@ Move inside a directory:
 ```bash
 username@linux:~$ cd <directory_path>
 ```
-To move up one directory:
+
+To move to the parent directory:
 
 ```bash
 username@linux:~$ cd ..
@@ -252,7 +270,7 @@ Use this to ping a website. useful if you want to test your network connection o
 username@linux:$ ping www.google.com
 ```
 
-### ssh - remote access computer or server.
+### ssh - remote access computer or server
 
 Use this to remote access a server, e.g. tuxedo.
 
@@ -274,7 +292,7 @@ username@linux:$ ssh abo-username@tuxedo.abo.fi
 
 More about tuxedo: [tuxedo-wiki](TUXEDO.md)
 
-### telnet -  Talk to “hosts” at the given port number.
+### telnet -  Talk to “hosts” at the given port number
 
 By default, the telnet port is port 23. Few other famous ports are:  
 7 – echo port,  
@@ -311,12 +329,14 @@ Almost the same as `ifconfig` but only displays wireless interfaces.
 username@linux:$ iwconfig
 ```
 
-### whois - Who dis?  
+### whois - Who dis?
+
 domain lookup
 
 ```bash
 username@linux:$ whois www.google.com
 ```
+
 TODO: improve description
 
 ### nslookup - translate IP address to name
