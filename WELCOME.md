@@ -36,7 +36,7 @@ Here's a preliminary schedule for evening activities
 
 | Monday   | Thuesday     | Wednesday         | Thursday   | Friday   | Weekend     |
 | ---------|--------------|-------------------|------------|----------|-------------|
-| TFiF GP  | Bowling      | ASK in Arkenparken| Rest-day   | Sitz     | -           |
+| TFiF GP  |  Something   | ASK in Arkenparken| Rest-day   | Sitz     | -           |
 
 ## Courses
 
