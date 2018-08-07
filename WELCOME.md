@@ -42,4 +42,6 @@ Here's a preliminary schedule for evening activities
 
 The courses can be found here in the [studienhandboken](http://studiehandboken.abo.fi/sv/degree-programme/5071). You need to open each course to see when it is actually held...
 
+Also note: Some things are not great in life... This site should not be viewed from a phone, hopefully will be updated soon.
+
 // TODO: add some cool parsing stuff here
