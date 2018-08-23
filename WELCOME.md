@@ -34,7 +34,7 @@ During the introduction week, you will
 
 Here's a preliminary schedule for evening activities
 
-| Monday   | Thuesday     | Wednesday         | Thursday   | Friday   | Weekend     |
+| Monday   | Tuesday     | Wednesday         | Thursday   | Friday   | Weekend     |
 | ---------|--------------|-------------------|------------|----------|-------------|
 | TFiF GP  |  Something   | ASK in Arkenparken| Rest-day   | Sitz     | -           |
 
