@@ -1,6 +1,6 @@
 # Welcome to DaTe
 
-Telegram invite link: https://t.me/joinchat/FNPOO1BZMLCKE7b-ZwXVLg
+* [>>>TELEGRAM INVITE LINK<<<](https://t.me/joinchat/FNPOO1BZMLCKE7b-ZwXVLg)
 This page contains many useful tools and links to get you started with your studies.
 
 ## [Start here](WELCOME.md)
