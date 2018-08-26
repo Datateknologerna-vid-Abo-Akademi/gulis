@@ -36,7 +36,7 @@ Here's a preliminary schedule for evening activities
 
 | Monday   | Tuesday     | Wednesday         | Thursday   | Friday   | Weekend     |
 | ---------|--------------|-------------------|------------|----------|-------------|
-| TFiF GP  |  Something   | ASK in Arkenparken| Rest-day   | Sitz     | -           |
+| TFiF GP  | Tour de Åbo  |ASK in Kuppisparken| Rest-day   | Sitz     | -           |
 
 ## Courses
 
