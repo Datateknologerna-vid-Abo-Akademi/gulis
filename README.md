@@ -28,6 +28,12 @@ This page contains many useful tools and links to get you started with your stud
 * [Tools to get you started](TOOLS.md)
 * [Getting started with Git and Github](GIT.md)
 
+## Kodarklubben
+
+* [what is this maddenss?](KODARKLUBBEN.md)
+* [exercises](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis-python-exercise/blob/master/INTRODUCTION.md) (greate exercises for both Python and Java)
+* [more advanced stuff](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis-chat) (gulis chat project)
+
 ## Linux
 
 * [Intro to Linux](LINUX.md)
@@ -39,6 +45,7 @@ This page contains many useful tools and links to get you started with your stud
 * [git 101](http://rogerdudler.github.io/git-guide/)
 * [What is a repo](https://blog.axosoft.com/learning-git-repository/)
 * [I f*cked up my repo](http://ohshitgit.com/)
+
 
 ## Interesting associations
 
