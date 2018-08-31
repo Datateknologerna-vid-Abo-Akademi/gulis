@@ -45,3 +45,7 @@ The courses can be found here in the [studienhandboken](http://studiehandboken.a
 Also note: Some things are not great in life... This site should not be viewed from a phone, hopefully will be updated soon.
 
 // TODO: add some cool parsing stuff here
+
+## Scheme
+
+![Scheme](assets/images/Period1.PNG)
