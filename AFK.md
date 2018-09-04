@@ -4,7 +4,7 @@
 
 ## Before school starts
 
-Bring something to write on (in addition to your computer), a few pens/pencils and a rubber.
+Bring something to write on (in addition to your computer), a few pens/pencils and an eraser.
 
 ## First weeks of school
 
