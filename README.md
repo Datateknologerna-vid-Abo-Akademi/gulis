@@ -30,7 +30,7 @@ This page contains many useful tools and links to get you started with your stud
 
 ## Kodarklubben
 
-* [what is this maddenss?](KODARKLUBBEN.md)
+* [what is this madenss?](KODARKLUBBEN.md)
 * [exercises](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis-python-exercise/blob/master/INTRODUCTION.md) (greate exercises for both Python and Java)
 * [more advanced stuff](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis-chat) (gulis chat project)
 * [Timetable](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master/KODARKLUBBEN.md#timetable)
