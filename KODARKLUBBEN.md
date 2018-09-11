@@ -21,7 +21,7 @@ Don't worry, you are all welcome to our sessions and we will help you with your 
 Will be updated weekly.
 
 #### Week 36. - Helping setting up environments (extending prog I 17-18)
-#### Week 37. - TBA
+#### Week 37. - Friday 15:00 [K126A&B](https://datateknologerna-vid-abo-akademi.github.io/gulis/MAPS.html). Come hang out with us.
 #### Week 38. - TBA
 #### Week 39. - TBA
 #### Week 40. - TBA
