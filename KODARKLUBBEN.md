@@ -22,8 +22,8 @@ Will be updated weekly.
 
 #### Week 36. - Helping setting up environments (extending prog I 17-18)
 #### Week 37. - Friday 15:00 [K126A&B](https://datateknologerna-vid-abo-akademi.github.io/gulis/MAPS.html). Come hang out with us.
-#### Week 38. - TBA
-#### Week 39. - TBA
+#### Week 38. - -
+#### Week 39. - Thuesday 17:00 [K126A&B](https://datateknologerna-vid-abo-akademi.github.io/gulis/MAPS.html). First steps in implementing Game of life.
 #### Week 40. - TBA
 #### Week 41. - Prepare for final exams.
 #### Week 42. - Prepare for final exams.
