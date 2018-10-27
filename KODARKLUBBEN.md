@@ -19,7 +19,7 @@ Don't worry, you are all welcome to our sessions and we will help you with your 
 
 ## Timetable
 Will be updated weekly.
-
+### Period 1.
 #### Week 36. - Helping setting up environments (extending prog I 17-18)
 #### Week 37. - Friday 15:00 [K126A&B](https://datateknologerna-vid-abo-akademi.github.io/gulis/MAPS.html). Come hang out with us.
 #### Week 38. - -
@@ -27,3 +27,8 @@ Will be updated weekly.
 #### Week 40. - TBA
 #### Week 41. - Prepare for final exams.
 #### Week 42. - Prepare for final exams.
+
+### Period 2.
+#### Every Thursday 15-17 in [K124B](https://datateknologerna-vid-abo-akademi.github.io/gulis/MAPS.html).
+#### Week 50. - Prepare for exam part 1. (14.12)
+#### Week 51. - Prepare for exam part 1. 2nd chance (21.12)
