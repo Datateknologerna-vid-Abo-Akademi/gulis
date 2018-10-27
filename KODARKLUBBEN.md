@@ -20,7 +20,7 @@ Don't worry, you are all welcome to our sessions and we will help you with your 
 
 
 ## Timetable
-Will be updated weekly.
+*Might change*
 ### Period 1.
 #### Week 36. - Helping setting up environments (extending prog I 17-18)
 #### Week 37. - Friday 15:00 [K126A&B](https://datateknologerna-vid-abo-akademi.github.io/gulis/MAPS.html). Come hang out with us.
