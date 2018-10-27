@@ -4,8 +4,10 @@ kodarklubben will be for everyone who likes to code or wants to learn more but d
 
 We are aiming to have weekly sessions.
 
-Kodarklubben will try to have something to do for everyone,  
-from [easy examples](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis-python-exercise/blob/master/INTRODUCTION.md) to [more challanging]() projects.
+Kodarklubben will try to have something to do for everyone.
+
+**PYTHON** - [easy examples](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis-python-exercise/blob/master/INTRODUCTION.md) and [more challanging](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis-chat) project.   
+**JAVA** - stay tuned.
 
 
 ### why should you join us ?
@@ -24,7 +26,7 @@ Will be updated weekly.
 #### Week 37. - Friday 15:00 [K126A&B](https://datateknologerna-vid-abo-akademi.github.io/gulis/MAPS.html). Come hang out with us.
 #### Week 38. - -
 #### Week 39. - Thuesday 17:00 [K126A&B](https://datateknologerna-vid-abo-akademi.github.io/gulis/MAPS.html). First steps in implementing Game of life.
-#### Week 40. - TBA
+#### Week 40. - -
 #### Week 41. - Prepare for final exams.
 #### Week 42. - Prepare for final exams.
 
