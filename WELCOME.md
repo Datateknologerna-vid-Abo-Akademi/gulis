@@ -8,17 +8,17 @@ These guys help you with any questions that you may come up with. The tutors hel
 
 You can contact them via [Telegram](COMMUNICATION.md#telegram) or by [email](COMMUNICATION.md#email).
 
-| Tutors 2018               |
+| Tutors 2019               |
 | ------------------------- |
-| André Nordström           |
-| Edvard "Diza" Söderback   |
-| Kristian Nykänen          |
+| Benjamin Finell           |
+| Jonas Fellman             |
+| William Lindroos          |
 
-Full-blown tutor greeting: [imgur](https://imgur.com/a/fZdNxxt)
+Full-blown tutor greeting: [greeting](http://datateknologerna.org/greeting)
 
 ## Intro-week
 
-Time: **27.-31.8.2018**
+Time: **26.-30.8.2019**
 
 During the introduction week, you will
 
@@ -28,7 +28,7 @@ During the introduction week, you will
 * Learn about [TEK and TFiF](TEKTFIF.md)
 * Have fun!
 
-**The schedule for the introduction week can be found [here](https://www.abo.fi/wp-content/uploads/2018/06/Studorientering-IT.pdf).**
+**The schedule for the introduction week can be found SOOON (TODO) [here](https://www.abo.fi/wp-content/uploads/2018/06/Studorientering-IT.pdf).**
 
 **Tutors and student associations will host evening activities for you. This is not mandatory but highly recommended.**
 
