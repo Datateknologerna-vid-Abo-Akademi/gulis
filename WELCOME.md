@@ -28,7 +28,7 @@ During the introduction week, you will
 * Learn about [TEK and TFiF](TEKTFIF.md)
 * Have fun!
 
-**The schedule for the introduction week can be found SOOON (TODO) [here](https://www.abo.fi/wp-content/uploads/2018/06/Studorientering-IT.pdf).**
+**The schedule for the introduction week can be found SOOON (TODO) [here](https://www.abo.fi/studera-hos-oss/du-som-redan-studerar/studieinformation/studieorientering/).**
 
 **Tutors and student associations will host evening activities for you. This is not mandatory but highly recommended.**
 
