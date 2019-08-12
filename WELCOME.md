@@ -48,4 +48,4 @@ Also note: Some things are not great in life... This site should not be viewed f
 
 ## Scheme
 
-![Scheme](assets/images/Period1.PNG)
+**Insert picture here**
