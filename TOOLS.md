@@ -62,7 +62,7 @@ We recommend choosing the Ultimate or Professional versions of these application
 
 ## Visual Studio Code
 
-[Visual Studio Code](https://code.visualstudio.com) is one of the few Microsoft products that actually work. Currently it is the most popular text editor among developers (according to Stack Overflow).
+[Visual Studio Code](https://code.visualstudio.com) is a great Open Source tool made by Microsoft. Currently it is the most popular text editor among developers (according to Stack Overflow).
 
 This text editor too depends on extensions to add features and of course, Git is built-in.
 
