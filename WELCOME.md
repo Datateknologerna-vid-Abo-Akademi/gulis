@@ -12,7 +12,7 @@ You can contact them via [Telegram](COMMUNICATION.md#telegram) or by [email](COM
 | ------------------------- |
 | Hanna Liman               |
 | Janina Heikkala           |
-| Max Siren                 |
+| Max Sirén                 |
 | Odin Röblom               |
 | Roope Paajanen            |
 
