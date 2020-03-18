@@ -8,11 +8,13 @@ These guys help you with any questions that you may come up with. The tutors hel
 
 You can contact them via [Telegram](COMMUNICATION.md#telegram) or by [email](COMMUNICATION.md#email).
 
-| Tutors 2019               |
+| Tutors 2020               |
 | ------------------------- |
-| Benjamin Finell           |
-| Jonas Fellman             |
-| William Lindroos          |
+| Hanna Liman               |
+| Janina Heikkala           |
+| Max Siren                 |
+| Odin Röblom               |
+| Roope Paajanen            |
 
 Full-blown tutor greeting: [greeting](http://datateknologerna.org/greeting)
 
