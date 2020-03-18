@@ -20,7 +20,7 @@ Full-blown tutor greeting: [greeting](http://datateknologerna.org/greeting)
 
 ## Intro-week
 
-Time: **26.-30.8.2019**
+Time: **31.-04.8.2019**
 
 During the introduction week, you will
 
