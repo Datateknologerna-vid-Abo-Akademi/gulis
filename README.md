@@ -25,6 +25,7 @@ This page contains many useful tools and links to get you started with your stud
 ## Setup your environment
 
 * [SDKs, JDKs and other animals](ENVIRONMENTS.md)
+* [The missing semester](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 * [Tools to get you started](TOOLS.md)
 * [Getting started with Git and Github](GIT.md)
 
