@@ -24,7 +24,7 @@ Join the community
 
 ---
 
-## Slack
+<!-- ## Slack
 
 DaTe uses [Slack](https://slack.com) too.
 
@@ -43,7 +43,7 @@ Slack can also be accessed via your browser.
 
 * Ask your tutor for an invite link to DaTe's Slack.
 
----
+--- -->
 
 ## Discord
 

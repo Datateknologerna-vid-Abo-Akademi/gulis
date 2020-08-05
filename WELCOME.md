@@ -16,11 +16,11 @@ You can contact them via [Telegram](COMMUNICATION.md#telegram) or by [email](COM
 | Odin Röblom               |
 | Roope Paajanen            |
 
-Full-blown tutor greeting: [greeting](http://datateknologerna.org/greeting)
+<!-- Full-blown tutor greeting: [greeting](http://datateknologerna.org/greeting) -->
 
 ## Intro-week
 
-Time: **31.-04.8.2019**
+Time: **24.-28.8.2020**
 
 During the introduction week, you will
 
@@ -38,16 +38,12 @@ Here's a preliminary schedule for evening activities
 
 | Monday   | Tuesday     | Wednesday         | Thursday   | Friday   | Weekend     |
 | ---------|--------------|-------------------|------------|----------|-------------|
-| TFiF GP  | Tour de Åbo  |ASK in Kuppisparken| Rest-day   | Sitz     | -           |
+| TFiF GP  | Tour de Åbo  |ASK in Kuppisparken| TBA   | TBA     | -           |
 
 ## Courses
 
-The courses can be found here in the [studienhandboken](http://studiehandboken.abo.fi/sv/degree-programme/5071). You need to open each course to see when it is actually held...
+The courses can be found here in the [studienhandboken](https://studiehandboken.abo.fi/en/programme/17004). You need to open each course to see when it is actually held...
 
 Also note: Some things are not great in life... This site should not be viewed from a phone, hopefully will be updated soon.
 
 // TODO: add some cool parsing stuff here
-
-## Scheme
-
-**Insert picture here**

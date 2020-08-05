@@ -57,11 +57,12 @@ This page contains many useful tools and links to get you started with your stud
 
 ## Useful links
 
-### [DaTe's website](https://date.abo.fi)
+### [DaTe's NEW website](https://datateknologerna.org)
+### [DaTe's old website](https://date.abo.fi)
 
 Contains news, events and other important stuff.
 
-### [The study plan for Computer Engineering](http://studiehandboken.abo.fi/sv/degree-programme/5071)
+### [The study plan for Computer Engineering](https://studiehandboken.abo.fi/en/programme/17004)
 
 You must open the course to see when it is actually held.
 
