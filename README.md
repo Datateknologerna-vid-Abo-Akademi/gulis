@@ -70,3 +70,7 @@ If you ever get stuck or want to learn more about python, check this out!
 ### [GitHub Student Developer Pack](https://education.github.com/pack)
 
 The best developer tools, free for students.
+
+### [Free programming books](https://github.com/EbookFoundation/free-programming-books)
+
+A nice repository with links to free programming books and courses in multiple languages.
