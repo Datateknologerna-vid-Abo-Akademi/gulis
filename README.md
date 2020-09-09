@@ -71,6 +71,9 @@ If you ever get stuck or want to learn more about python, check this out!
 
 The best developer tools, free for students.
 
+### [Collection of free tools for developers](https://free-for.dev/)
+Massive collection of services (SaaS, PaaS, IaaS etc.) that are free to use or provide some sort of free plan for developers.
+
 ### [Free programming books](https://github.com/EbookFoundation/free-programming-books)
 
 A nice repository with links to free programming books and courses in multiple languages.
