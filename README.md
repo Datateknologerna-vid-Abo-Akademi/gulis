@@ -77,3 +77,7 @@ Massive collection of services (SaaS, PaaS, IaaS etc.) that are free to use or p
 ### [Free programming books](https://github.com/EbookFoundation/free-programming-books)
 
 A nice repository with links to free programming books and courses in multiple languages.
+
+### [Want to brush upon Python topics?](https://www.scaler.com/topics/python/)
+
+Well, if you want to brush upon basics python topics, then this python tutorial is all you need.
