@@ -1,14 +1,9 @@
 # Welcome to DaTe
 
-This page contains many useful tools and links to get you started with your studies.
+This page contains many useful tools and links to get you started with your studies. This website will cover the technical topics such as the tools you will use during your programming courses. For more general information, refer to [gulisguiden](https://fra1.digitaloceanspaces.com/albin-storage/date/public/2024/gulis-filer/gulisguide-2024.pdf)
 
-## [Start here](WELCOME.md)
 
-* [Tutors](WELCOME.md#tutors)
-* [Intro-week](WELCOME.md#intro-week)
-* [AFK - Life as a student](AFK.md)
-
-## ÅA-specific stuff
+## ÅA-specific tools
 
 * [Maps](MAPS.md)
 * [Email](ABO.md#email)
@@ -55,7 +50,7 @@ This page contains many useful tools and links to get you started with your stud
 
 Contains news, events and other important stuff.
 
-### [The study plan for Computer Engineering](https://studiehandboken.abo.fi/en/programme/17004)
+### [The study plan for Computer Engineering](https://studiehandboken.abo.fi/sv/program/30968?period=2024-2027)
 
 You must open the course to see when it is actually held.
 

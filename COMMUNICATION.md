@@ -8,7 +8,7 @@ This will help you stay in touch with other students.
 
 We use Telegram in DaTe for random communication. Telegram is superior to WhatsApp because:
 
-* It is not owned by Facebook
+* It is not owned by Meta
 * You can contact people by their usernames, no numbers required
 * We have bots
 * You can send stickers
