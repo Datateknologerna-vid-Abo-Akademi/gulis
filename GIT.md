@@ -4,7 +4,12 @@ This page contains general information on how to get started with Git and Github
 
 **[git 101](http://rogerdudler.github.io/git-guide/)**
 
-// TODO: add CLI git info before desktop client
+
+## Github command line interface (CLI)
+
+The most common way to use git is through the command line
+
+All git commands start by typing git, followed by the specific command you want to perform. For example, to commit all your changes while adding a message "Fix a nasty bug" you can run the command `git commit -a -m "Fix a nasty Bug"`
 
 ## Github Desktop (Windows and macOS only)
 
@@ -29,16 +34,16 @@ Many [IDE](https://github.com/Datateknologerna-vid-Abo-Akademi/gulis/blob/master
 
 ## Learn interactively
 
-try.github.io helps you learn the most basic commands with a fun, interactive, step by step tutorial.
+Learn Git Branching helps you learn the most basic commands with a fun, interactive, step by step tutorial.
 
 Remember to read the texts to fully understand the commands!
 
-[try.github.io](https://try.github.io)
+[Learn Git Branching](https://learngitbranching.js.org/)
 
 ## Useful Git links
 
 * [GitHub](https://github.com)
-* [Git Tutorial - Try Git](https://try.github.io)
+* [Interactive Git tutorial](https://learngitbranching.js.org/)
 * [git 101](http://rogerdudler.github.io/git-guide/)
 * [ÅA GitLab](https://gitlab.abo.fi)
 * [Oh shit, git!](http://ohshitgit.com)
